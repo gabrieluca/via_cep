@@ -4,7 +4,6 @@ version: 1.0.6
 homepage: https://viacep.com.br/
 repository: https://github.com/mateuspenha/via_cep
 issue_tracker: https://github.com/mateuspenha/via_cep/issues
-author: Mateus Penha <mateuspenha@gmail.com>
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
